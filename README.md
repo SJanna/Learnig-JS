@@ -1,49 +1,49 @@
 # Learnig-JS
-Documentation of my JavaScript learning process <br>
-[JS-Tutorial-Wiki](https://sjanna.github.io/Learnig-JS_Aprendiendo-JS/)<br>
-[Solved-Problems](solvedProblems/)<br>
+Documentation of my JavaScript learning process / Documentación de mi proceso de aprendizaje de JavaScript <br>
+[JS, Mis notas en Español](https://sjanna.github.io/Learnig-JS_Aprendiendo-JS/)<br>
+[Solved-Problems / Problemas-Resueltos](solvedProblems/)<br>
 
-Tabla de Contenidos / Table of Conteds
-Comentarios
-Variables
-Variables no inicializadas
-var vs let
-variable tipo const
-Operadores
-Suma 1
-Asignación Compuesta
-Comillas literales
-Representación de Caracteres 'especiales'
-Concatenación de cadenas
-Longitud de una cadena (length)
-Obtener el carácter en la posición i de la cadena
-Inmutabilidad de las cadenas
-Arreglos
-Arreglos multidimensionales
-Manipulación de arreglos
-Funciones
-Ámbito global
-Ámbito local
-Booleanos
-If statement 
-Comparadores Lógicos
-Else and else if
-Switch statement 
-Devolver booleanos desde una función
+## Tabla de Contenidos / Table of Conteds
+Comentarios<br>
+Variables<br>
+Variables no inicializadas<br>
+var vs let<br>
+variable tipo const<br>
+Operadores<br>
+Suma 1<br>
+Asignación Compuesta<br>
+Comillas literales<br>
+Representación de Caracteres 'especiales'<br>
+Concatenación de cadenas<br>
+Longitud de una cadena (length)<br>
+Obtener el carácter en la posición i de la cadena<br>
+Inmutabilidad de las cadenas<br>
+Arreglos<br>
+Arreglos multidimensionales<br>
+Manipulación de arreglos<br>
+Funciones<br>
+Ámbito global<br>
+Ámbito local<br>
+Booleanos<br>
+If statement <br>
+Comparadores Lógicos<br>
+Else and else if<br>
+Switch statement <br>
+Devolver booleanos desde una función<br>
 
 <b>The next content is in process<b>
 
-typeof
-Objetos
-Actualizar, añadir y eliminar propiedades a objetos
-Uso de objetos para hacer búsquedas
-Verificar las propiedades de un objeto
-Manipulación de objetos complejos
-Acceso a objetos anidados
-Bucles / Ciclos
-Recursividad
-Generación de números aleatorios
-Función parseInt
-Función parseInt con Radix (base)
-Operador condicional ternario
-Multiples operador condicionales
+typeof<br>
+Objetos<br>
+Actualizar, añadir y eliminar propiedades a objetos<br>
+Uso de objetos para hacer búsquedas<br>
+Verificar las propiedades de un objeto<br>
+Manipulación de objetos complejos<br>
+Acceso a objetos anidados<br>
+Bucles / Ciclos<br>
+Recursividad<br>
+Generación de números aleatorios<br>
+Función parseInt<br>
+Función parseInt con Radix (base)<br>
+Operador condicional ternario<br>
+Multiples operador condicionales<br>
