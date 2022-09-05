@@ -30,9 +30,6 @@ Comparadores Lógicos<br>
 Else and else if<br>
 Switch statement <br>
 Devolver booleanos desde una función<br>
-
-<b>The next content is in process<b>
-
 typeof<br>
 Objetos<br>
 Actualizar, añadir y eliminar propiedades a objetos<br>
